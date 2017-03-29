@@ -1,0 +1,7 @@
+*.pyc
+config.py
+*.yaml
+*.DS_Store
+static
+*.rdb
+.idea
